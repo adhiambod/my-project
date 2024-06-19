@@ -1,1 +1,1 @@
-# My sample repository
+# is my sample repository
