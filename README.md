@@ -1,1 +1,1 @@
-# My Project
+# My sample repository
